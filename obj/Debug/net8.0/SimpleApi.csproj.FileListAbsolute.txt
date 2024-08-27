@@ -31,3 +31,4 @@ D:\Nam_5\Thuc_tap\dotnet\SimpleApi\obj\Debug\net8.0\refint\SimpleApi.dll
 D:\Nam_5\Thuc_tap\dotnet\SimpleApi\obj\Debug\net8.0\SimpleApi.pdb
 D:\Nam_5\Thuc_tap\dotnet\SimpleApi\obj\Debug\net8.0\SimpleApi.genruntimeconfig.cache
 D:\Nam_5\Thuc_tap\dotnet\SimpleApi\obj\Debug\net8.0\ref\SimpleApi.dll
+D:\Nam_5\Thuc_tap\dotnet\SimpleApi\obj\Debug\net8.0\SimpleApi.sourcelink.json
